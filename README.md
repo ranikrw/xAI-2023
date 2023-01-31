@@ -1,5 +1,5 @@
 # Explainable artificial intelligence (xAI) for interpreting machine learning methods and their individual predictions
-This repository contains all code for running analyses and producing results presented in the paper *Explainable artificial intelligence (xAI) for interpreting machine learning methods and their individual predictions*
+This repository contains all code for running analyses and producing results presented in the paper *Explainable artificial intelligence (xAI) for interpreting machine learning methods and their individual predictions* (https://dx.doi.org/10.2139/ssrn.4321303)
 
 ## 1_create_data.py
 The code in this file prepares the data.
