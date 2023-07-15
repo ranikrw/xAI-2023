@@ -1,3 +1,5 @@
+# Explainable Artificial Intelligence (xAI) for Interpreting Machine Learning Methods and Their Individual Predictions
+
 This repository contains all code for running analyses and producing results presented in the following paper:
 
 Wahlstrøm, R. R. (2023). Explainable Artificial Intelligence (xAI) for Interpreting Machine Learning Methods and Their Individual Predictions. Working Paper, Norwegian University of Science and Technology. https://doi.org/10.2139/ssrn.4321303
