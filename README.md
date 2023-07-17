@@ -23,4 +23,4 @@ The folder *"functions"* contains functions used by the code in the files mentio
 I am not allowed to share the data due to restrictions from the provider.
 
 <br/><br/>
-**Permanent link to this repository:** https://xai2023.ranik.no/
+**Permanent link to the content in this repository:** https://xai2023.ranik.no/
